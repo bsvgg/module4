@@ -1,0 +1,20 @@
+h1 {
+    background: green;
+}
+
+.paragraph_1 {
+    background: blue;
+    font-size: 22px;
+    color: white;
+}
+
+.paragraph_2 {
+    border: 10px solid red;
+}
+
+.paragraph_4 {
+    font-style: italic;
+    font-size: 24px;
+    text-shadow: green 4px 2px 10px;
+    text-align: center;
+}
